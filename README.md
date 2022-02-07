@@ -2,7 +2,7 @@
 
 This is a mockup of airbnb Experiences webpage built for a course on React skills with Bob Ziroll. It is a single-page app with a navigation bar, a hero, a bodyan image, and a body with cards. The cards fetch their information from a data.js file through usage of props. Each card fetchs different information and have badges according to their availability status. Practice with components, props, and styling.
 
-![airbnb mockup - Online Experiences - Tanimara ELIAS SANTOS](airbnb-experiences-showcase.png)
+![airbnb mockup - Online Experiences - Tanimara ELIAS SANTOS](public/airbnb-experiences-showcase.png)
 
 ## Feature
 
