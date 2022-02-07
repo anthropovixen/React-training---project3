@@ -1,8 +1,15 @@
 # Project 3
 
-This is a ...
+This is a mockup of airbnb Experiences webpage built for a course on React skills with Bob Ziroll. It is a single-page app with a navigation bar, a hero, a bodyan image, and a body with cards. The cards fetch their information from a data.js file through usage of props. Each card fetchs different information and have badges according to their availability status. Practice with components, props, and styling.
+
+![airbnb mockup - Online Experiences - Tanimara ELIAS SANTOS](airbnb-experiences-showcase.png)
 
 ## Feature
+
+- Navigation bar with logo
+- Hero image with different types of experiences user could have
+- Cards with stars rating, number of reviews, location, title and price
+- Badges on top of each card showing if experience still has spots available or if it's online.
 
 ## Technologies
 
