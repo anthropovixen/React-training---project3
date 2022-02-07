@@ -1,8 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://anthropovixen.github.io/react-project3/",
-=======
->>>>>>> parent of e1e0ff6 (Updates)
   "name": "project3",
   "version": "0.1.0",
   "private": true,
@@ -20,11 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-<<<<<<< HEAD
     "deploy": "gh-pages -d build",
-=======
-    "deploy": "gh-pages -b master -d build",
->>>>>>> parent of e1e0ff6 (Updates)
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
