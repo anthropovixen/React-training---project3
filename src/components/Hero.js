@@ -1,11 +1,11 @@
 import React from "react";
-import HeroImage from "./images/photo-grid.png";
+
 
 export default function Hero() {
   return (
     <section className="hero--container">
       <img
-        src={HeroImage}
+        src="../images/photo-grid.png"
         alt="Images of people experiencing different activities"
         className="hero--image"
       />
